@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Acme
+
+  Created by Thomas Lombard on 29/05/2019.
+  Copyright © 2019 lumapps. All rights reserved.
+*/
+
+"alertView.content" = "LumApps is not installed, please download it in the app store";
+"alertView.button.appStore" = "App Store";
+"alertView.button.cancel" = "Annuler";
