@@ -1,6 +1,6 @@
 # launcher-app-ios
 
-IMPORTANT: This app need to be release on a entreprise account and will not be accepted on the App Store
+IMPORTANT: This app needs to be release on a entreprise account and will not be accepted on the App Store
 
 ## Icon
 
@@ -14,7 +14,7 @@ On left side of your Xcode window you have the Navigator panel, you should selec
 
 On General tab under Identity you will see a text field named `Display name`, you can enter there your app name.
 
-To finish you should also update `Bundle Identifier` with the one you defined on iTunes connect in order to make your application avaible on the App Store.
+To finish you should also update `Bundle Identifier` with the one you defined on iTunes connect in order to make your application available on the App Store.
 
 ## Update wording
 
