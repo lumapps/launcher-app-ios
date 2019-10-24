@@ -1,5 +1,10 @@
 # launcher-app-ios
 
+Template app to start the LumApps application from a custom icon/application
+ * LumApps doesn't provide any support on this github repository, please contact a LumApps Customer Success Management representative or the support team for any question regarding this project
+ * This template is intended for specific customer needs and is not required to use the LumApps product. 
+ You can directly download and use the LumApps iOS application from the [App Store](https://apps.apple.com/us/app/lumapps/id1237675892?ls=1)
+ 
 IMPORTANT: This app needs to be release on a entreprise account and will not be accepted on the App Store
 
 ## Icon
